@@ -1,0 +1,1 @@
+This is Maxime Hudson's first git project!
